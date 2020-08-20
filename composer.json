@@ -1,6 +1,6 @@
 {
     "name": "maq89/paytabs-laravel",
-    "version": "1.0.0",		
+    "version": "1.0.0",
     "license": "LGPL-3.0",
     "description": "Paytabs Laravel",
     "authors": [
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "~5.0"
+        "laravel/framework": "~7.0"
     },
     "autoload": {
         "psr-0": {
